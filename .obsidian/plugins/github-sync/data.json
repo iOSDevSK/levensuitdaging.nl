@@ -1,0 +1,7 @@
+{
+  "remoteURL": "git@github.com:iOSDevSK/obsidian.git",
+  "gitLocation": "/usr/bin",
+  "syncinterval": 1,
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": true
+}
