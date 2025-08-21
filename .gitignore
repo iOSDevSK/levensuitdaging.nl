@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But don't ignore Blog directory and its contents  
+!Blog/
+!Blog/**
+
+# Also don't ignore .gitignore itself
+!.gitignore
