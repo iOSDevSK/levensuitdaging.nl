@@ -9,7 +9,7 @@ canonical_url:
 excerpt: Het testen van de nieuwe universele Ghost Editor plugin - publiceren vanuit Obsidian direct naar de blog
 language: nl
 ---
-# Mijn eerste test van de Ghost Editor plugin
+# Mijn eerste test van de Ghost Editor plugin !
 
 Ik test nu een nieuwe plugin die ik heb gemaakt voor het publiceren van artikelen vanuit Obsidian direct naar een Ghost blog.
 
